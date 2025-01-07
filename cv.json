@@ -1,0 +1,169 @@
+{
+  "basics": {
+    "name": "Christian de Jesús Gómez Murillo",
+    "label": "Desarrollador Full Stack JavaScript",
+    "image": "/images/me.webp",
+    "email": "cjgm14@gmail.com",
+    "phone": "(229) 145-1795",
+    "url": "https://johndoe.com",
+    "summary": "Desarrollador Frontend con más de 4 años de experiencia, especializado en la creación de interfaces web dinámicas y eficientes utilizando Vue.js. Mi enfoque principal es diseñar experiencias de usuario intuitivas y funcionales, asegurando la calidad y el rendimiento del producto final. Mi formación como desarrollador fullstack me permite entender y contribuir al desarrollo de soluciones completas, desde el backend hasta el frontend.",
+    "location": {
+      "address": "",
+      "postalCode": "94298",
+      "city": "Boca del Río",
+      "countryCode": "MX",
+      "region": "Veracruz"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Christian de Jesús Gómez Murillo",
+        "url": "https://www.linkedin.com/in/christiandejesusgomezmurillo/"
+      },
+      {
+        "network": "GitHub",
+        "username": "Christian de Jesús Gómez Murillo",
+        "url": "https://github.com/Chrissus14"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Flynode de México",
+      "position": "Desarrollador Frontend",
+      "url": "http://flynode.net/",
+      "startDate": "2021",
+      "endDate": "2024",
+      "summary": "Como desarrollador frontend, desarrollé dashboards interactivos, enfocados en ofrecer una experiencia de usuario intuitiva y eficiente, utilizando tecnologías como Vue.js y librerías complementarias",
+      "highlights": [
+        "Started the company"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad Mexicana campus Veracruz",
+      "url": "https://unimexver.edu.mx/",
+      "area": "Sistemas Computacionales",
+      "studyType": "Universidad",
+      "startDate": "2011",
+      "endDate": "2014",
+      "score": "8.1"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML"
+      ]
+    },
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "HTML"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": [
+        "css"
+      ]
+    },
+    {
+      "name": "Javascript",
+      "level": "Master",
+      "keywords": [
+        "javascript"
+      ]
+    },
+    {
+      "name": "Vue.js",
+      "level": "Master",
+      "keywords": [
+        "Vue.js"
+      ]
+    },
+    {
+      "name": "Pinia",
+      "level": "Master",
+      "keywords": [
+        "Pinia"
+      ]
+    },
+    {
+      "name": "vue Router",
+      "level": "Master",
+      "keywords": [
+        "vue router"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Master",
+      "keywords": [
+        "React"
+      ]
+    },
+    {
+      "name": "Node.js",
+      "level": "Master",
+      "keywords": [
+        "Node.js"
+      ]
+    },
+    {
+      "name": "Express.js",
+      "level": "Master",
+      "keywords": [
+        "Express.js"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Master",
+      "keywords": [
+        "mysql"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Master",
+      "keywords": [
+        "Git"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "basic"
+    }
+  ],
+  "projects": {
+    "description": "Desarrollé en la creación dashboards interactivos utilizando Vue 3 y Bootstrap 5 para el frontend, con multiples funcionalidades como filtrado avanzado, segmentación de datos, visualizaciones personalizadas, conexion con APIs, login y registro de usuarios, roles y permisos, entre otros.",
+    "characteristics": [
+      "Componentes reutilizables con Vue 3 para una mejor mantenibilidad.",
+      "Diseño responsivo con Bootstrap 5 para una óptima visualización en diferentes dispositivos.",
+      "Funcionalidades de filtrado, ordenamiento y paginado de datos, creando un datatable.",
+      "CRUD",
+      "Gráficos interactivos",
+      "Alertas y notificaciones",
+      "Integración con APIs",
+      "Roles y permisos",
+      "Autenticación y autorización",
+      "Exportación de datos en diferentes formatos (ej:PDF)."
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+---
+import Section from "@/components/Section.astro";
+import { projects } from "@cv";
+---
+
+<Section title="Proyectos">
+  <p style="margin-bottom: 1rem;">
+    {projects.description}
+  </p>
+  <ul>
+    {
+      projects.characteristics.map((characteristic) => (
+        <li>- {characteristic}</li>
+      ))
+    }
+  </ul>
+</Section>
+
+<style>
+  li {
+    list-style-type: none;
+    margin-bottom: 0.5rem;
+  }
+</style>
