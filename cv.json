@@ -151,19 +151,30 @@
       "fluency": "basic"
     }
   ],
-  "projects": {
-    "description": "Desarrollé en la creación dashboards interactivos utilizando Vue 3 y Bootstrap 5 para el frontend, con multiples funcionalidades como filtrado avanzado, segmentación de datos, visualizaciones personalizadas, conexion con APIs, login y registro de usuarios, roles y permisos, entre otros.",
-    "characteristics": [
-      "Componentes reutilizables con Vue 3 para una mejor mantenibilidad.",
-      "Diseño responsivo con Bootstrap 5 para una óptima visualización en diferentes dispositivos.",
-      "Funcionalidades de filtrado, ordenamiento y paginado de datos, creando un datatable.",
-      "CRUD",
-      "Gráficos interactivos",
-      "Alertas y notificaciones",
-      "Integración con APIs",
-      "Roles y permisos",
-      "Autenticación y autorización",
-      "Exportación de datos en diferentes formatos (ej:PDF)."
-    ]
-  }
+  "projects": [
+    {
+      "name": "Pizzeria dashbaord",
+      "isActive": true,
+      "description": "Dashbaord básico de una pizzeria para gestionar sucursales y clientes",
+      "highlights": [
+        "Dashbard interactivo",
+        "Vue.js"
+      ],
+      "url": "https://cerulean-jalebi-5d6c25.netlify.app/",
+      "github": "https://github.com/Chrissus14/basic-dashboard"
+    },
+    {
+      "name": "Restaurant reviews",
+      "isActive": true,
+      "description": "Aplicación para calificar y comentar restaurantes",
+      "highlights": [
+        "Búsqueda de restaurantes",
+        "Filtrar restaurantes",
+        "Agregar comentarios y calificar",
+        "Next.js"
+      ],
+      "url": "https://restaurant-reviews-nextapp.netlify.app/",
+      "github": "https://github.com/Chrissus14/restaurant-reviews"
+    }
+  ]
 }
