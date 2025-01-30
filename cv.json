@@ -175,6 +175,16 @@
       ],
       "url": "https://restaurant-reviews-nextapp.netlify.app/",
       "github": "https://github.com/Chrissus14/restaurant-reviews"
+    },
+    {
+      "name": "Ytb thumbnails downloader",
+      "isActive": true,
+      "description": "Descargar thumbnails de videos de youtube",
+      "highlights": [
+        "Next.js",
+        "Tailwindcss"
+      ],
+      "url": "https://ytbthumbnaildownloader.netlify.app/"
     }
   ]
 }
