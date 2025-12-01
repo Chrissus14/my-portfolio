@@ -32,8 +32,8 @@
       "name": "Almacenadora Golmex",
       "position": "Desarrollador Web Full Stack",
       "url": "https://golmex.com.mx",
-      "startDate": "2025",
-      "endDate": "Actualidad",
+      "startDate": "Feb 2025",
+      "endDate": "Oct 2024",
       "summary": "Implementación de diversos modulos para el sistema de la empresa, como envio de correos, bitacoras, extraccion de datos, etc.",
       "highlights": [
         ".NET, Full Stack"
@@ -43,8 +43,8 @@
       "name": "Flynode de México",
       "position": "Desarrollador Frontend",
       "url": "http://flynode.net/",
-      "startDate": "2021",
-      "endDate": "2024",
+      "startDate": "Feb 2021",
+      "endDate": "Dic 2024",
       "summary": "Como desarrollador frontend, desarrollé dashboards interactivos, enfocados en ofrecer una experiencia de usuario intuitiva y eficiente, utilizando tecnologías como Vue.js y librerías complementarias",
       "highlights": [
         "Frontend"
@@ -164,7 +164,19 @@
   ],
   "projects": [
     {
-      "name": "Pizzeria dashbaord",
+      "name": "Dev Events",
+      "isActive": false,
+      "description": "App de eventos con Next.js 16",
+      "highlights": [
+        "Dashbard interactivo",
+        "React.js",
+        "Next.js"
+      ],
+      "url": "https://github.com/Chrissus14/dev-events-next16-course",
+      "github": "https://github.com/Chrissus14/dev-events-next16-course"
+    },
+    {
+      "name": "Pizzeria dashboard",
       "isActive": true,
       "description": "Dashbaord básico de una pizzeria para gestionar sucursales y clientes",
       "highlights": [
