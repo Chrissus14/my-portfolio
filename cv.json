@@ -33,10 +33,10 @@
       "position": "Desarrollador Web Full Stack",
       "url": "https://golmex.com.mx",
       "startDate": "Feb 2025",
-      "endDate": "Oct 2024",
-      "summary": "Implementación de diversos modulos para el sistema de la empresa, como envio de correos, bitacoras, extraccion de datos, etc.",
+      "endDate": "Oct 2025",
+      "summary": "Desarrollo Full-Stack con Enfoque en Optimización de Procesos: Diseño y desarrollo de soluciones empresariales completas utilizando SQL Server, .NET Core MVC, Razor y JQuery. Cada módulo incluía la creación de interfaces CRUD (Crear, Leer, Actualizar, Eliminar) con vistas de datos avanzados, filtros de búsqueda y gestión de información mediante jqGrid y Datatables. Implementación de Sistemas de Registro y Control (Checador/Bitácora): Lideré la creación de un Módulo Checador en casetas de acceso, permitiendo el registro automático de entradas y salidas de visitantes/proveedores. El sistema funcionaba escaneando un código QR (generado a partir de datos extraídos de PDF) para registrar automáticamente la hora y fecha en la base de datos, optimizando el control de acceso.\n",
       "highlights": [
-        ".NET, Full Stack"
+        ".NET,SQL server, Full Stack"
       ]
     },
     {
@@ -45,7 +45,7 @@
       "url": "http://flynode.net/",
       "startDate": "Feb 2021",
       "endDate": "Dic 2024",
-      "summary": "Como desarrollador frontend, desarrollé dashboards interactivos, enfocados en ofrecer una experiencia de usuario intuitiva y eficiente, utilizando tecnologías como Vue.js y librerías complementarias",
+      "summary": "Desarrollo de Dashboards Interactivos de Alto Impacto: Lideré el desarrollo y la implementación en producción de dashboards críticos para clientes clave del sector alimentario (incluyendo Domino's Pizza, Todo Empanadas y Gorditas Doña Tota). Liderazgo en la Plataforma Central de la Empresa: Colaboré y fui fundamental en la construcción del Dashboard principal de Flynode, integrando un conjunto de funcionalidades avanzadas típicas de una aplicación empresarial compleja (Enterprise-Grade)",
       "highlights": [
         "Frontend"
       ]
@@ -55,7 +55,7 @@
     {
       "institution": "Universidad Mexicana campus Veracruz",
       "url": "https://unimexver.edu.mx/",
-      "area": "Sistemas Computacionales",
+      "area": "Licenciatura en Sistemas Computacionales",
       "studyType": "Universidad",
       "startDate": "2011",
       "endDate": "2014",
@@ -72,31 +72,45 @@
   ],
   "skills": [
     {
-      "name": "Web Development",
+      "name": "Desarrollo Web",
       "level": "Master",
       "keywords": [
-        "HTML"
+        "Web"
       ]
     },
     {
-      "name": "HTML",
-      "level": "Master",
+      "name": "Typescript",
+      "level": "Advanced",
       "keywords": [
-        "HTML"
+        "Typescript"
       ]
     },
     {
-      "name": "CSS",
+      "name": "React.js",
       "level": "Master",
       "keywords": [
-        "css"
+        "React.js"
       ]
     },
     {
-      "name": "Javascript",
+      "name": "Next.js",
       "level": "Master",
       "keywords": [
-        "javascript"
+        "Next.js"
+      ]
+    },
+    {
+      "name": "Zod",
+      "level": "Master",
+      "keywords": [
+        "Zod"
+      ]
+    },
+    {
+      "name": "Zustand",
+      "level": "Master",
+      "keywords": [
+        "Zustand"
       ]
     },
     {
@@ -104,6 +118,13 @@
       "level": "Master",
       "keywords": [
         "Vue.js"
+      ]
+    },
+    {
+      "name": "Clerk",
+      "level": "Master",
+      "keywords": [
+        "Clerk"
       ]
     },
     {
@@ -121,13 +142,6 @@
       ]
     },
     {
-      "name": "React",
-      "level": "Master",
-      "keywords": [
-        "React"
-      ]
-    },
-    {
       "name": "Node.js",
       "level": "Master",
       "keywords": [
@@ -135,17 +149,17 @@
       ]
     },
     {
-      "name": "Express.js",
+      "name": "Supabase",
       "level": "Master",
       "keywords": [
-        "Express.js"
+        "Supabase"
       ]
     },
     {
-      "name": "MySQL",
+      "name": "SQL",
       "level": "Master",
       "keywords": [
-        "mysql"
+        "SQL"
       ]
     },
     {
